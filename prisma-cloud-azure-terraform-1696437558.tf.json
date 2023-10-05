@@ -517,13 +517,5 @@
       "default": "8760h",
       "type": "string"
     }
-  },
-  "terraform": {
-    "required_providers": {
-      "random": "=3.1.0",
-      "azuread": "=2.28.1",
-      "time": "=0.7.0",
-      "azurerm": "=3.24.0"
-    }
   }
 }
