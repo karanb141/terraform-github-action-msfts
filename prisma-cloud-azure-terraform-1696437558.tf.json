@@ -32,11 +32,7 @@
       "tenant_id": "${var.tenant_id}",
       "environment": "${var.cloud_environment}"
     },
-    "time": {},
-    "azurerm": {
-      "tenant_id": "${var.tenant_id}",
-      "features": {}
-    }
+    "time": {}
   },
   "resource": {
     "azuread_application_password": {
