@@ -14,6 +14,7 @@ terraform {
     key                  = "terraform.tfstate"
     access_key           = "eX3RHJAzsN15k64psjYas/0bwIYimtaOE3k9CKXoa/DRZ13EoC4h8ftp6s9wy4NT0+p+nkhAEje/+AStnHczWQ=="
     #tenant_id = "15d51b4e-b761-428f-b55c-5030645146f6"
+    subscription_id      = "c3ace9c5-f5d5-491f-9c11-ac9c41516a41"
     use_oidc             = true
   }
 }
