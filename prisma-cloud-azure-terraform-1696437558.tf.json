@@ -505,8 +505,7 @@
         "Microsoft.Workloads/monitors/read",
         "Microsoft.classicCompute/domainNames/read",
         "microsoft.app/containerapps/read",
-        "microsoft.network/virtualnetworkgateways/connections/read",
-        "microsoft.web/serverfarms/sites/read"
+        "microsoft.network/virtualnetworkgateways/connections/read"
       ],
       "type": "list"
     },
